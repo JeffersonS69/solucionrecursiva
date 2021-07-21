@@ -1,0 +1,3 @@
+C:/Users/ibarr/CLionProjects/untitled/solucionrecursiva/cmake-build-debug/CMakeFiles/solucionrecursiva.dir
+C:/Users/ibarr/CLionProjects/untitled/solucionrecursiva/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ibarr/CLionProjects/untitled/solucionrecursiva/cmake-build-debug/CMakeFiles/rebuild_cache.dir
